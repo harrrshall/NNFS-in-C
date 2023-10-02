@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-float relu_alpha = 0.01;
+ 
 
 typedef struct Value
 {
