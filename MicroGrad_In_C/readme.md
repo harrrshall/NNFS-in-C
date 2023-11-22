@@ -1,4 +1,3 @@
 Till now i have implemented micrograd functions
-things left to do:- 
-- Implementing multi-layer perceptron
-- testing code
+micrograd_in_c_part1 -> here main "Value" implemention
+engine -> neuron (mlp implementation)
