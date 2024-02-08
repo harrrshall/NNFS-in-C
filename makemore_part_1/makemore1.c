@@ -3,7 +3,7 @@
 #include <stdlib.h> 
 // STEPS:->>>>>
 
-// Make Dataset -> Bigrams -> itos/stoi -> change it into one hot vector embedding(calculating log, logprob and likelyhood)
+// Make Dataset -> BigramsBigrams -> itos/stoi -> change it into one hot vector embedding(calculating log, logprob and likelyhood)
 // Train it on Gradient Descent -> forward bias and backward bias
 // Use it to predict the words -> using loop to predict next words
 
