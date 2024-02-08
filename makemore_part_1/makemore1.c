@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> 
-// STEPS:->>>
+// STEPS:->>>>>
 
 // Make Dataset -> Bigrams -> itos/stoi -> change it into one hot vector embedding(calculating log, logprob and likelyhood)
 // Train it on Gradient Descent -> forward bias and backward bias
