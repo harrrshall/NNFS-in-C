@@ -7,7 +7,7 @@
 // Train it on Gradient Descent -> forward bias and backward bias
 // Use it to predict the words -> using loop to predict next words
 
-// Open  file// Open  file
+// Open  file
 char *open_file()
 {
     FILE *file_ptr;
